@@ -14,7 +14,7 @@ body {
     /* background by SVGBackgrounds.com */
     background-attachment: fixed;
     background-size: cover;
-    min-width: 375px;
+    min-width: 300px;
 }
 
 a {
